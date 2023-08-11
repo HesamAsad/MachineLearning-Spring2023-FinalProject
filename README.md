@@ -22,7 +22,7 @@ The project has the following stages:
 
 - Final Report: 
   - Thorough discussion of process, analysis, results and comparisons
-  - Should contain charts, classification metrics, explanations of models tried etc.
+  - Contains charts, classification metrics, explanations of models tried etc.
 
 The project uses 3 Jupyter notebooks:
 
