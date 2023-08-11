@@ -1,5 +1,3 @@
-Here is an updated summary with more details and without the Getting Started section:
-
 # Real vs Fake Image Classifier 
 
 ## Overview
